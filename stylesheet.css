@@ -1,0 +1,30 @@
+img {
+    
+    font-size: 150%;
+    padding-left: 150px;
+
+}
+
+.email{
+    width: 100%;
+    height: 50px;
+    border-radius: 30px;
+    border-color: pink;
+    padding-left: 40px;
+    text-align: left;
+    border-left: 20px;
+    margin-left: 33px
+
+}
+
+.emailfield{
+    margin-left: 700px;
+    <button>></button>
+
+}
+.logo{
+    width: 500px;
+    margin-left: 750px;
+    height: 75px;
+}
+    
